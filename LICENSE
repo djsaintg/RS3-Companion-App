@@ -1,0 +1,107 @@
+MIT License
+
+Copyright (c) 2025 djsaintg (RS3 Complete Guide)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+PROJECT AUTHORS & CREDITS
+================================================================================
+
+PROJECT CONCEPT & DIRECTION
+  djsaintg (GitHub: @djsaintg)
+  Original idea, product vision, feature design, and creative direction.
+  The concept for an offline-first, single-window RS3 reference guide —
+  including the F2P/P2P separation structure, the multi-character profile
+  system, the inline location approach, live GE price integration, the
+  aurora borealis visual theme, and the quest walkthrough section — is the
+  intellectual property of djsaintg.
+
+APPLICATION DEVELOPMENT
+  Claude (Anthropic) — AI Assistant
+  https://www.anthropic.com/
+  All application code, architecture, data compilation, component design,
+  and implementation were produced by Claude, an AI assistant made by
+  Anthropic. This includes: React component architecture, TypeScript data
+  models, Tailwind CSS styling, API integration logic, localStorage caching
+  systems, the launch script, and all documentation files.
+
+================================================================================
+THIRD-PARTY CREDITS & NOTICES
+================================================================================
+
+This project is an UNOFFICIAL fan-made guide for RuneScape 3.
+It is NOT affiliated with, endorsed by, or associated with Jagex Ltd.
+
+RUNESCAPE
+  RuneScape ® is a registered trademark of Jagex Ltd.
+  © Jagex Ltd. All rights reserved.
+  https://www.jagex.com/
+  All game content, character names, item names, skill names, quest names,
+  locations, lore, and game mechanics referenced in this project are the
+  intellectual property of Jagex Ltd. No copyrighted game assets (sprites,
+  textures, audio, models) are distributed with this project.
+
+RUNESCAPE WIKI
+  https://runescape.wiki/
+  Game data (skill training methods, quest walkthroughs, item information,
+  location details) was sourced from the RuneScape Wiki, a community-maintained
+  resource. Content on the RuneScape Wiki is available under the
+  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+  (CC BY-NC-SA 3.0): https://creativecommons.org/licenses/by-nc-sa/3.0/
+  The RuneScape Wiki is maintained by Weird Gloop Ltd.
+
+WEIRDGLOOP EXCHANGE API
+  https://api.weirdgloop.org/
+  Grand Exchange price data is fetched from the WeirdGloop Exchange API,
+  provided by Weird Gloop Ltd (the team behind the RuneScape Wiki).
+  API documentation: https://runescape.wiki/w/RuneScape:Grand_Exchange_Market_Watch/Usage_and_APIs
+  Used in accordance with their public API usage guidelines.
+
+RS3 INTERACTIVE MAP
+  https://mejrs.github.io/rs3/
+  The embedded interactive world map is created by mejrs, using data
+  extracted from the RuneScape game cache. Used via iframe embedding.
+
+RUNESTATS.INFO
+  https://runestats.info/
+  Referenced as a player lookup tool. RuneStats pulls data from Jagex's
+  official RS3 Hiscores API.
+
+RUNEHQ
+  https://www.runehq.com/
+  Quest structure and reward data was cross-referenced with RuneHQ guides.
+
+RUNESCAPE FANDOM WIKI
+  https://runescape.fandom.com/
+  Additional game data cross-referenced from the Fandom wiki.
+
+GOOGLE FONTS
+  Cinzel — designed by Natanael Gama, SIL Open Font License 1.1
+  Inter — designed by Rasmus Andersson, SIL Open Font License 1.1
+  https://fonts.google.com/
+
+OPEN-SOURCE LIBRARIES (all MIT Licensed)
+  React — https://react.dev/ — Copyright (c) Meta Platforms, Inc.
+  Vite — https://vite.dev/ — Copyright (c) Evan You
+  Tailwind CSS — https://tailwindcss.com/ — Copyright (c) Tailwind Labs, Inc.
+  vite-plugin-singlefile — https://github.com/nicojuicy/vite-plugin-singlefile
+  clsx — https://github.com/lukeed/clsx — Copyright (c) Luke Edwards
+  tailwind-merge — https://github.com/dcastil/tailwind-merge
+  TypeScript — https://www.typescriptlang.org/ — Copyright (c) Microsoft Corporation
