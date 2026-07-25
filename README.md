@@ -5,6 +5,7 @@ An **offline-first**, single-page reference guide for [RuneScape 3](https://www.
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
 ![RuneScape 3](https://img.shields.io/badge/Game-RuneScape%203-8b5cf6)
 ![Built with React](https://img.shields.io/badge/Built%20with-React%20%2B%20Vite-22d3ee)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/djsaintg)
 
 ---
 
