@@ -9,6 +9,10 @@ An **offline-first**, single-page reference guide for [RuneScape 3](https://www.
 ![Built with React](https://img.shields.io/badge/Built%20with-React%20%2B%20Vite-22d3ee)
 [![Deploy to GitHub Pages](https://github.com/djsaintg/RS3-Companion-App/actions/workflows/deploy.yml/badge.svg)](https://github.com/djsaintg/RS3-Companion-App/actions/workflows/deploy.yml)
 
+## 💖 Support this Project
+
+[![Sponsor](https://raw.githubusercontent.com/djsaintg/A-Highland-Song-Interactive-Map/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
+
 <a href="https://www.buymeacoffee.com/djsaintg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="40" ></a>
 
 ---
@@ -22,9 +26,7 @@ An **offline-first**, single-page reference guide for [RuneScape 3](https://www.
 
 ---
 
-## 💖 Support this Project
 
-[![Sponsor](https://raw.githubusercontent.com/djsaintg/A-Highland-Song-Interactive-Map/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
 
 ## ✨ Features
 
