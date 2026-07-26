@@ -11,9 +11,7 @@ An **offline-first**, single-page reference guide for [RuneScape 3](https://www.
 
 ## 💖 Support this Project
 
-[![Sponsor](https://raw.githubusercontent.com/djsaintg/A-Highland-Song-Interactive-Map/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
-
-<a href="https://www.buymeacoffee.com/djsaintg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="40" ></a>
+[![Sponsor](https://raw.githubusercontent.com/djsaintg/djsaintg/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
 
 ---
 
