@@ -22,6 +22,10 @@ An **offline-first**, single-page reference guide for [RuneScape 3](https://www.
 
 ---
 
+## 💖 Support this Project
+
+[![Sponsor](https://raw.githubusercontent.com/djsaintg/A-Highland-Song-Interactive-Map/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
+
 ## ✨ Features
 
 ### ⚡ Skilling Guide (29 Skills)
